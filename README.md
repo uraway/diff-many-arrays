@@ -1,5 +1,7 @@
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/uraway/diff-many-arrays.svg)](https://greenkeeper.io/)
+
 ```
 yarn add diff-arrays
 ```
