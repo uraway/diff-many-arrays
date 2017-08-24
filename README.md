@@ -3,17 +3,17 @@
 ## Install
 
 ```
-yarn add diff-arrays
+yarn add diff-many-arrays
 ```
 
 ```
-npm install diff-arrays
+npm install diff-many-arrays
 ```
 
 ## Usage
 
 ```js
-const diffArrays = require('diff-arrays');
+const diffArrays = require('diff-many-arrays');
 
 diffArrays(['a', 'b', 'c'], ['b', 'c', 'd']) // ['a', 'd']
 
