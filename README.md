@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/uraway/diff-many-arrays.svg?branch=master)](https://travis-ci.org/uraway/diff-many-arrays)
+
 ## Install
 
 ```
